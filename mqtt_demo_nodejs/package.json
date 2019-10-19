@@ -1,0 +1,19 @@
+{
+  "name": "mqtt_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mqtt",
+    "node",
+    "js"
+  ],
+  "author": "Geshwar Kumar Dhankar",
+  "license": "Ddatum IT Solutions",
+  "dependencies": {
+    "mosca": "^2.8.3"
+  }
+}
