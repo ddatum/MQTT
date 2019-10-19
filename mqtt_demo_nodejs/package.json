@@ -1,5 +1,5 @@
 {
-  "name": "mqtt_js",
+  "name": "mqtt_demo_nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,8 @@
     "js"
   ],
   "author": "Geshwar Kumar Dhankar",
-  "license": "Ddatum IT Solutions",
+  "license": "Ddatum IT Solutions LLP",
   "dependencies": {
-    "mosca": "^2.8.3"
+    
   }
 }
